@@ -1,6 +1,9 @@
 # Reto Codigo Becario
 
-En este reto debemos realizar una cuncio
+En este reto debemos realizar una funcion la cual debe identificar entre dos numeros que ambos sean enteros y realizar el procedimiento de suma, en caso contrario de tener un algun número no entero o algun otro caracter que no sea un número debera mostrar un error de funcionamiento exigiendo que ambos sean numeros enteros.
+
+-Primero se debe definir la funcion que utilizaremos para la suma, en este caso "sumarNumeros" será nuestra funcion.
+
 def sumarNumeros(a,b): # Definimos la función sumarNumeros con dos parámetros a y b
   if isinstance(a, int) and isinstance(b, int): # Verificamos si ambos valores son enteros
     resultado = a + b # Realizamos la suma de los dos valores
