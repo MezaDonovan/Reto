@@ -1,6 +1,6 @@
 # Reto Codigo Becario
 
-En este reto debemos realizar una funcion la cual debe identificar entre dos numeros que ambos sean enteros y realizar el procedimiento de suma, en caso contrario de tener un algun número no entero o algun otro caracter que no sea un número debera mostrar un error de funcionamiento exigiendo que ambos sean numeros enteros.
+En este reto debemos realizar una funcion la cual debe identificar entre dos numeros que ambos sean enteros y realizar el procedimiento de suma, en caso contrario de tener un algun número no entero o algun otro caracter que no sea un número debera mostrar un error de funcionamiento exigiendo que ambos sean valores enteros.
 
 -Primero se debe definir la funcion que utilizaremos para la suma, en este caso "sumarNumeros" será nuestra funcion.
 
